@@ -1,0 +1,1 @@
+EDUCATIONAL PURPOSES ONLY! Oopsie is malware. It doesn't steal your information; it's not spyware or a keylogger. It crashes your browser. It contains strange sounds and effects. It causes temporary damage but doesn't leave permanent damage.
